@@ -20,7 +20,7 @@ Scalar function will return just one value (scalar) given the input parameters. 
 (https://dotnettutorials.net/lesson/multi-statement-table-valued-function-in-sql-server/ , 2021)
 
 Syntax between iTVF and MTVF is also different which is illustrated on this picture:
-
+![Pic1](the-syntax-differences-between-multi-statment-tabl.png "Pic1")
 
 ## Summary
 We took our first stab at SQL functions. There are much more to learn. Functions make our coding easier and faster (DRY principle), and also allow more powerful applications like MTVFs. 
